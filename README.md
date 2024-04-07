@@ -1,4 +1,4 @@
-该脚本程序为开发，Pixels: An Infinite World of Endless Adventure区块链网页游戏，游戏网址：https://play.pixels.xyz，目前脚本已经实现自动化脚本功能，如农田种植、熔炼、厨房、磨坊、酿酒等日常游戏业务，安全、省心、防掉线，是游戏最佳搭档。
+该脚本程序为开发，Pixels: An Infinite World of Endless Adventure区块链网页游戏，游戏网址：https://play.pixels.xyz<br>目前脚本已经实现自动化脚本功能，如农田种植、熔炼、厨房、磨坊、酿酒等日常游戏业务，安全、省心、防掉线，是游戏最佳搭档。
 # 20240407更新
 1.增设授权码<br>
 2.修复若干BUG<br>
